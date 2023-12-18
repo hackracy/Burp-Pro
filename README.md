@@ -1,4 +1,4 @@
-sudo git clone https://github.com/hackracy/Burp-Pro.git
+sudo git clone https://github.com/hackracy/Burp-Pro.git 
 cd Burp-Pro
 sudo chmod +x Dilshuppa.sh
 Sudo ./Dilshuppa.sh
